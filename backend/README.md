@@ -19,3 +19,12 @@ module.exports = {
 ```
 
 Please try not delete this file as this stores all customizable variables for the backend.
+
+## Required packages
+
+```
+express
+express-session
+cors
+axios
+```
